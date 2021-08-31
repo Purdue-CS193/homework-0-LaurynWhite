@@ -1,3 +1,10 @@
+# Lauryn White's First CS193 Homework
+
+My Favorite Things About CS193
+- The class is taught by students, keeps the delivery interesting
+- The course covers information not taught in CS180
+- It's fun getting to meet other CS/DS majors
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
